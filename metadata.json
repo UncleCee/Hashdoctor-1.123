@@ -1,0 +1,9 @@
+{
+  "name": "HashDoctor 1.123",
+  "description": "A comprehensive AI-assisted medical platform providing international medical help, role-based dashboards, AI-driven IVR assistance, and integrated financial management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
